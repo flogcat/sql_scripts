@@ -19,7 +19,7 @@ Description:	Tablespaces usage amount statistics script
 
 Notes:
 
-​	If the autoextend on and maxsize parameters are not set,
+​	If the tablespace autoextend on and maxsize parameters are not set,
 
 ​	An 'OAR-01476 divisor is equal to zero' error will occur. 
 
