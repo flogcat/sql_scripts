@@ -17,8 +17,8 @@
  *      PRE_FREE            - Actual free space pre
  *
  *  NOTES
- *      If the autoextend on and maxsize parameters are not set,
- *      an 'OAR-01476 divisor is equal to zero' error will occur.        
+ *      If the tablespace autoextend on and maxsize parameters are not set,
+ *      An 'OAR-01476 divisor is equal to zero' error will occur.        
  *
  *  MODIFIED    (DD/MM/YY)
  *  wesley       16/01/19    -   frist created
