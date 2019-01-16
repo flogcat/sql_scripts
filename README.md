@@ -25,5 +25,5 @@ Notes:
 
 Demo:
 
-![1547645121673](C:\Users\Devon\AppData\Roaming\Typora\typora-user-images\1547645121673.png)
+![1547645121673](https://github.com/flogcat/sql_scripts/tree/master/screenshots/1547645121673.png)
 
