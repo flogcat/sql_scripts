@@ -25,5 +25,5 @@ Notes:
 
 Demo:
 
-![1547645121673](https://github.com/flogcat/sql_scripts/tree/master/screenshots/1547645121673.png)
+![Alt text](https://github.com/flogcat/sql_scripts/tree/master/screenshots/1547645121673.png)
 
