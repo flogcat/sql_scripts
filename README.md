@@ -21,7 +21,7 @@ Notes:
 
 ​	If the autoextend on and maxsize parameters are not set,
 
-​	an 'OAR-01476 divisor is equal to zero' error will occur. 
+​	An 'OAR-01476 divisor is equal to zero' error will occur. 
 
 Demo:
 
